@@ -1,0 +1,6 @@
+`$ git init` 実行したディレクトリ以下がGitで管理される
+
+1. `$ mkdir gitinit`　ディレクトリ作る
+2. `$ cd gitinit`　ディレクトリ移動
+3. `$ git init`　Gitで管理
+4. `$ Initialized empty Git repository **in** [ディレクトリ名].git/`　これが表示で成功🙌
